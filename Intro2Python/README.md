@@ -16,7 +16,11 @@ Descriptions and exercises for each session are in the format of Jupyter Noteboo
 
 * [Module 3 - Data Structures](./Module3-DataStructures.ipynb)
 
-* [Module 4 - Functions](./Module4-Functions.ipynb)
+* [Module 4 - Slicing and Indexing](./Module4-SlicingAndIndexing.ipynb)
+
+* [Module 5 - For, While loops and list Comprehension](./Module5-LoopsComprehension.ipynb)
+
+* [Module 6 - Functions](./Module6-Functions.ipynb)
 
 
 
