@@ -11,6 +11,7 @@ figures/*
 
 # hidden exercises
 Dev/*
+*Dev/*
 
 # Distribution / packaging
 .Python
